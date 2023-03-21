@@ -1,2 +1,2 @@
 # react-one
-react kne course
+react 0ne course
